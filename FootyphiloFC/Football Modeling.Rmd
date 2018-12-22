@@ -1,0 +1,22 @@
+---
+title: "20181103_FootyPhilo_Modeling"
+output: html
+---
+
+###FootyPhilo Modeling
+This notebook aims to setup a framework under which the we foundation of the FootyPhilo soccer model is built on.
+
+
+##Player Assumptions
+
+
+
+
+```{r}
+
+
+
+
+
+```
+
